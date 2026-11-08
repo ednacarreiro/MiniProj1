@@ -19,7 +19,7 @@ Projeto académico de uma página única (`index.html`), inspirado num mural de 
 
 MiniProj1/
 ├── index.html                  # Página SPA única
-├── docs/			# Pasta com a documentação
+├── docs/			            # Pasta com a documentação
 │   ├── wireframe.png
 │   └── memoria-descritiva-SPA.pdf
 ├── README.md
